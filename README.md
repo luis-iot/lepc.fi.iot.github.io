@@ -1,4 +1,4 @@
-# gilpgiot.github.io
+# lepc.fi.iot.github.io
 Ejemplo de IoT con Firestore.
 
-https://gilpgiot.github.io
+https://lepc.fi.iot.github.io
